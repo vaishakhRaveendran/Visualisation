@@ -2,16 +2,18 @@
 # Project Name
 Hey we built this project to visualise some familiar sorting algorithms
 ## Team members
-1. Vaishakh M[Embed personal github URL]
-2. Ansu Jo Anooj [Embed perosnal github URL]
+1. Vaishakh M
+2. Ansu Jo Anooj 
 
 ## Libraries used
 pygame-2.1.2
 ## How to configure
 Clone GitHub repository :git clone https://github.com/vaishakhRaveendran/Visualisation.git
+</br>
 Install requirements: pip install pygame
 ## How to Run
 Run: python program.py
+</br>
 ❗ Feel free to open an issue if you have some problem ❗
 
     
