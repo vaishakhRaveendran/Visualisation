@@ -14,7 +14,7 @@ Install requirements: pip install pygame
 ## How to Run
 Run: python program.py
 </br>
-❗ Feel free to open an issue if you have some problem ❗
+
 
     
    
