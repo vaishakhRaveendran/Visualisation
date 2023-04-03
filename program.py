@@ -7,7 +7,7 @@ pygame.init()
 #CLASS OF VARIABLES
 class DrawInformation:
 	BLACK = 0, 0, 0
-	WHITE = 183, 196, 207
+	WHITE = 183, 196, 208
 	GREEN = 0, 255, 0
 	RED = 255, 0, 0
 	BACKGROUND_COLOR = WHITE
